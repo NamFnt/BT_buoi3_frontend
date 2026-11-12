@@ -1,0 +1,17 @@
+.hero {
+    background-image: url("images.jfif");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.posts h2 + article
+{
+    background-color: pink;
+}
+.posts article h3 {
+    color: lightyellow;
+}
+.active
+{
+    font-size: larger;
+}
